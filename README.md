@@ -7,6 +7,9 @@ All parts and models are avaliable for personal use free of charge, and should b
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GA2ATM7VC5LZL&currency_code=USD&source=url)
 
+
+ ![AP Kit](https://i.imgur.com/wLG0PlT.jpeg)
+
 # File Descriptions
 
 - Materials/Cost:RX8 AP Kit.xlsx

@@ -8,10 +8,8 @@ All parts and models are avaliable for personal use free of charge, and should b
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GA2ATM7VC5LZL&currency_code=USD&source=url)
 
 # File Descriptions
-Materials/Cost:RX8 AP Kit.xlsx
 
-Hat for AP Racing Rotor CP3580-2900G8: AP_Hat_V3.SLDPRT
-
-Bracket for AP Racing CP9200 Caliper (for use with the corresponding hat): CP9200_Bracket_V2.SLDPRT
-
-Section of 3D Scanned Front RX8 Hub: RX8_Front_Knuckle_Section.SLDPRT
+-Materials/Cost:RX8 AP Kit.xlsx
+-Hat for AP Racing Rotor CP3580-2900G8: AP_Hat_V3.SLDPRT
+-Bracket for AP Racing CP9200 Caliper (for use with the corresponding hat): CP9200_Bracket_V2.SLDPRT
+-Section of 3D Scanned Front RX8 Hub: RX8_Front_Knuckle_Section.SLDPRT

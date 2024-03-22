@@ -1,4 +1,4 @@
-# RX8_AP_Kit
+# RX8 AP Kit
 File dump + BOM for 04-11 Mazda RX8 AP Racing Brake Kit
 
 Please do not use these files for your own resale. If you'd like to distribute these parts, please contact me first!
